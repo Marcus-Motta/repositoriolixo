@@ -73,9 +73,12 @@ ul.nav a:hover{
     text-align: center;
     font-size: 40px;
     color: darkmagenta;
+    margin-top: 800px;
 }
 
 .sobre {
+    margin-left: 80px;
+    margin-right: 80px;
     font-size: 38px;
     text-align: center;
     color: rgb(0, 255, 64);
